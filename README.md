@@ -16,9 +16,9 @@
   <span><img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=Hyperledger&logoColor=white"/><span>
 </div>
     
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeoms96%2Fhit-counter&count_bg=%23CEA0E9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeoms96%2Fhit-counter&count_bg=%23CEA0E9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
     
-    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beoms96&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beoms96&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
   ### About Me💻
 <div align='center'>
